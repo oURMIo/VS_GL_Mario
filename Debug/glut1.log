@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+  glut1.cpp
+  Создание кода...
+glut1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  glut1.vcxproj -> E:\Progremir_2018-1019_C++\_Anna Nikolaevna\glut_mario\Debug\glut1.exe
